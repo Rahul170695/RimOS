@@ -23,7 +23,7 @@ const THEME_OPTIONS = [
 const BIRTHDAY_MONTH_INDEX = 8
 const BIRTHDAY_DAY = 30
 const BIRTHDAY_AGE = 27
-const BIRTHDAY_PHOTO = '${import.meta.env.BASE_URL}memories/birthday-girl.jpg'
+const BIRTHDAY_PHOTO = `${import.meta.env.BASE_URL}memories/birthday-girl.jpg`
 const FINAL_CONFETTI = ['♥', '✦', '♥', '✧', '♥', '✦', '♥', '✧', '♥']
 
 const DESKTOP_BLOBS = [

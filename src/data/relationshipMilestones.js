@@ -5,7 +5,7 @@ export const relationshipMilestones = [
     title: 'Patch After Panic',
     oneLine: 'Across many arguments over time, we learned to pause, return, and repair with respect.',
     rewardType: 'video',
-    rewardPath: '${import.meta.env.BASE_URL}rewards/milestone-1.mp4',
+    rewardPath: `${import.meta.env.BASE_URL}rewards/milestone-1.mp4`,
     rewardFileName: 'milestone-1-reward.mp4',
   },
   {
@@ -15,7 +15,7 @@ export const relationshipMilestones = [
     oneLine: 'I survived all 10 characters and somehow started loving each one more.',
     cinematicLine: 'Every character had the same beautiful heart behind it.',
     rewardType: 'video',
-    rewardPath: '${import.meta.env.BASE_URL}rewards/milestone-2.mp4',
+    rewardPath: `${import.meta.env.BASE_URL}rewards/milestone-2.mp4`,
     rewardFileName: 'milestone-2-reward.mp4',
     cinematic: true,
   },
@@ -25,7 +25,7 @@ export const relationshipMilestones = [
     title: 'No Ghost Protocol',
     oneLine: 'Even after hard arguments, communication came back instead of silent distance.',
     rewardType: 'photo',
-    rewardPath: '${import.meta.env.BASE_URL}rewards/milestone-3.jpg',
+    rewardPath: `${import.meta.env.BASE_URL}rewards/milestone-3.jpg`,
     rewardFileName: 'milestone-3-reward.jpg',
   },
   {
@@ -34,7 +34,7 @@ export const relationshipMilestones = [
     title: 'Team Mode Activated',
     oneLine: 'Pressure and misunderstandings became easier once we approached them like a team.',
     rewardType: 'photo',
-    rewardPath: '${import.meta.env.BASE_URL}rewards/milestone-4.jpg',
+    rewardPath: `${import.meta.env.BASE_URL}rewards/milestone-4.jpg`,
     rewardFileName: 'milestone-4-reward.jpg',
   },
   {
@@ -43,7 +43,7 @@ export const relationshipMilestones = [
     title: 'Long-Run Build',
     oneLine: 'Consistency over time made this story stable, real, and worth continuing.',
     rewardType: 'photo',
-    rewardPath: '${import.meta.env.BASE_URL}rewards/milestone-5.jpg',
+    rewardPath: `${import.meta.env.BASE_URL}rewards/milestone-5.jpg`,
     rewardFileName: 'milestone-5-reward.jpg',
   },
 ]
