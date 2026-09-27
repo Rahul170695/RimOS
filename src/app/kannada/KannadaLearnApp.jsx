@@ -297,10 +297,6 @@ function KannadaLearnApp() {
 
           {translatedText ? <p className="kannada-translate-result">{translatedText}</p> : null}
           {translateError ? <p className="kannada-translate-error">{translateError}</p> : null}
-
-          <small className="kannada-progress">
-            API source is configurable with <code>VITE_TRANSLATE_API_URL</code>.
-          </small>
         </section>
       )}
     </div>
